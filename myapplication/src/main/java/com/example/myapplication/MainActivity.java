@@ -9,10 +9,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        // into main
-        // main
         // into main some
-        // b2
-        // commit after rebase
     }
 }
